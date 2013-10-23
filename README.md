@@ -1,2 +1,2 @@
-Lots-of-minigame
+Mini-games
 ================
